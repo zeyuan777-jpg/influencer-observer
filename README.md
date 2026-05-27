@@ -1,4 +1,4 @@
-# Influencer or Observer — User-level Multimodal Stacking (CSC_51054 Kaggle Challenge)
+# Influencer or Observer — User-level Multimodal Stacking
 
 Predict a Twitter user's social role — **Influencer (1)** or **Observer (0)** — from their tweets
 and user metadata. This repository reproduces the technical pipeline of the 88% winning solution
